@@ -9,4 +9,4 @@ VexRefiner parses VEX documents, converting timestamps, validating vulnerability
 go run parser.go
 ```
 
-Then, you specifie the entry and output Vex.
+Then, you specify the entry and output Vex.
